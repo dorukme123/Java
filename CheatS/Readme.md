@@ -2,7 +2,7 @@
 ### CheatSheet/Examples 
 
 #### Access Modifiers:
-// just not to forget about them.
+// just so not to forget about them.
 - Default :: Packages cant access.
 - Public :: Everyone can access.
 - Protected :: Only can be used inside the so called package.
