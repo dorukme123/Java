@@ -50,10 +50,10 @@ public class MyFrame extends JFrame implements ActionListener {
 
 
 
-        ImageIcon image = new ImageIcon("C:/Users/Duirel/Desktop/CheatS/GuiFrames/src/images/580b57fcd9996e24bc43c2fa.png");
-        ImageIcon image1 = new ImageIcon("C:/Users/Duirel/Desktop/CheatS/GuiFrames/src/images/icon1.png");
-        ImageIcon image2 = new ImageIcon("C:/Users/Duirel/Desktop/CheatS/GuiFrames/src/images/icon2.png");
-        ImageIcon image3 = new ImageIcon("C:/Users/Duirel/Desktop/CheatS/GuiFrames/src/images/matrushka.png");
+        ImageIcon image = new ImageIcon("");
+        ImageIcon image1 = new ImageIcon("");
+        ImageIcon image2 = new ImageIcon("");
+        ImageIcon image3 = new ImageIcon("");
         labelAfterButton.setIcon(image3);
         labelAfterButton.setBounds(325,300,200,200);
         labelAfterButton.setVisible(false);
